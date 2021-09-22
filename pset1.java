@@ -18,7 +18,7 @@ public class pset1{
         System.out.println("MIDPOINT FORMULA"); //MIDPOINT FORMULA
         int m_1x = 0, m_1y = 0, m_2x = 2, m_2y = 3; //variables needed for calculatoin: x of point 1, y of point 1, x of point 2, y of point 2
         double m_ansX = (double)(m_1x + m_2x) / 2; //calculation using the MIDPOINT FORMULA
-        double m_ansY = (double)(m_1y + m_2y) / 2;
+        double m_ansY = (double)(m_1y + m_2y) / 2; //calculation using the MIDPOINT FORMULA
         System.out.println("The midpoint between (" + m_1x + ", " + m_1y + ") and (" + m_2x + ", " + m_2y + ") is (" + m_ansX + ", " + m_ansY + ")\n"); //output
         
         System.out.println("SUM OF ARITHMETIC SERIES"); //SUM OF ARITHMETIC SERIES
